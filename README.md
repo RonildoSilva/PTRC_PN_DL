@@ -1,2 +1,4 @@
 # PTRC_PN_DL
 Códigos para o artigo: Predição de tempo restante para conclusão de processos de negócio utilizando aprendizado profundo
+
+A predição eficiente do tempo restante para conclusão de uma instância de processo contribui na prevenção de esperas incertas, descoberta de gargalos em processos e assistência em sistemas de alerta. Este trabalho utiliza arquiteturas de aprendizado profundo baseadas em redes recorrentes para predizer o tempo restante para conclusão de um processo de negócio, que superam soluções do estado da arte. As arquiteturas utilizadas são validadas com dois conjuntos de dados públicos, facilitando a reprodutibilidade dos experimentos.
